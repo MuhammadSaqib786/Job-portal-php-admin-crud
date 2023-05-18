@@ -1,0 +1,29 @@
+nav {
+    background-color: #28A745;
+    color: #FFFFFF;
+    margin-bottom: 2rem;
+  }
+  .navbar-brand
+  {
+    color: white;
+    
+  }
+  
+  .navbar li a {
+    color: #FFFFFF;
+  }
+
+  .content {
+    width: 50%;
+    margin: auto;
+  }
+
+  h1 {
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+  }
+  .btn
+  {
+    background: #28A745;
+  }
